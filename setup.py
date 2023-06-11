@@ -11,7 +11,7 @@ classifiers = [
 ]
  
 setup(
-    name="TextAdventures",
+    name="text_adventures",
     version="0.0.1",
     description="A Python library for easily making text adventure games.",
     long_description=open("README.md").read() + "\n\n" + open("CHANGELOG.md").read(),

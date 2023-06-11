@@ -1,4 +1,4 @@
-# TextAdventures
+# Text Adventures
 
 A Python library for easily making text adventure games.
 
@@ -13,14 +13,14 @@ Inspired by [`textadventure`](https://pypi.org/project/textadventure/).
 Install the library using `pip` or your package manager of choice:
 
 ```
-pip install TextAdventures
+pip install text_adventures
 ```
 -->
 
 Add this code to import the package:
 
 ```python
-import TextAdventures
+import text_adventures
 ```
 
 ## `Scene`
@@ -28,7 +28,7 @@ import TextAdventures
 To create a `Scene`, add this code:
 
 ```python
-myScene = TextAdventures.Scene()
+myScene = text_adventures.Scene()
 ```
 
 `Scene`s take 2 arguments:
