@@ -46,7 +46,7 @@ myScene = Scene()
 `Scene`s take 2 arguments:
 
 - `title`: a string that gets printed at the top of the console.
-- `actions`: a `list`/`tuple` of `Action`s that will be ran in order.
+- `actions`: an `Iterable` of `Action`s that will be ran in order.
 
 ## `Action`s
 
