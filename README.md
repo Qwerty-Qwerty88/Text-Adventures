@@ -17,16 +17,10 @@ pip install TextAdventures
 ```
 -->
 
-And add this code to import the package:
+Add this code to import the package:
 
 ```python
 import TextAdventures
-```
-
-Or:
-
-```python
-from TextAdventures import GoTo, Interaction, Options, Scene, Text
 ```
 
 ## `Scene`
@@ -37,15 +31,9 @@ To create a `Scene`, add this code:
 myScene = TextAdventures.Scene()
 ```
 
-Or:
-
-```python
-myScene = Scene()
-```
-
 `Scene`s take 2 arguments:
 
-- `title`: a string that gets printed at the top of the console.
+- `title`: a `str` that gets printed at the top of the console.
 - `actions`: an `Iterable` of `Action`s that will be ran in order.
 
 ## `Action`s
