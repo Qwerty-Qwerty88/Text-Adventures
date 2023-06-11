@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 classifiers = [
     "Development Status :: 3 - Alpha",
@@ -19,5 +19,7 @@ setup(
     author="Qwerty Qwerty",
     author_email="personqwertyperson88@gmail.com",
     license="MIT", 
-    classifiers=classifiers
+    classifiers=classifiers,
+    packages=find_packages(),
+    install_requires=['getkey']
 )

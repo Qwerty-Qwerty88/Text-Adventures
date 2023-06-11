@@ -5,8 +5,9 @@ Please view the `README.md` file [on Replit](https://replit.com/@QwertyQwerty54/
 
 from typing import Iterable
 from getkey import getkey, keys
-from replit import clear
 from .timing import timeEvent
+
+clear = lambda: print("\033c", end="", flush=True)
 
 
 class Action:    
