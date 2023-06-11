@@ -6,7 +6,7 @@ Inspired by [`textadventure`](https://pypi.org/project/textadventure/).
 
 * [See on PyPI](https://pypi.org/project/text-adventures/)
 * [See on GitHub](https://github.com/Qwerty-Qwerty88/Text-Adventures)
-* [See on Replit](https://replit.com/@QwertyQwerty54/TextAdventures)
+* [See on Replit](https://replit.com/@QwertyQwerty88/Text-Adventures)
 
 ## Getting Started
 

@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: text-adventures
-Version: 0.0.3
+Version: 0.0.5
 Summary: A Python library for easily making text adventure games.
 Home-page: https://github.com/Qwerty-Qwerty88/Text-Adventures
 Author: Qwerty Qwerty
@@ -24,7 +24,7 @@ Inspired by [`textadventure`](https://pypi.org/project/textadventure/).
 
 * [See on PyPI](https://pypi.org/project/text-adventures/)
 * [See on GitHub](https://github.com/Qwerty-Qwerty88/Text-Adventures)
-* [See on Replit](https://replit.com/@QwertyQwerty54/TextAdventures)
+* [See on Replit](https://replit.com/@QwertyQwerty88/Text-Adventures)
 
 ## Getting Started
 
@@ -68,6 +68,12 @@ But you can expect more soon, or if you don't want to wait, you can make your ow
 # Change Log
 
 ## Alpha
+
+### v0.0.5 (6/11/2023)
+- Actually fixed links to the Repl
+
+### v0.0.4 (6/11/2023)
+- Attempted to fix links to the Repl
 
 ### v0.0.3 (6/11/2023)
 - Updated the CHANGELOG

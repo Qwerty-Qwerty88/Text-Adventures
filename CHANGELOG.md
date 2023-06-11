@@ -2,6 +2,12 @@
 
 ## Alpha
 
+### v0.0.5 (6/11/2023)
+- Actually fixed links to the Repl
+
+### v0.0.4 (6/11/2023)
+- Attempted to fix links to the Repl
+
 ### v0.0.3 (6/11/2023)
 - Updated the CHANGELOG
 

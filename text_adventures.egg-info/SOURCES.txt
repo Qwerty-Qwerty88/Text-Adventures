@@ -1,5 +1,6 @@
 LICENSE
 README.md
+pyproject.toml
 setup.py
 text_adventures/__init__.py
 text_adventures/timing.py
