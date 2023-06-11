@@ -15,6 +15,7 @@ setup(
     version="0.0.1",
     description="A Python library for easily making text adventure games.",
     long_description=open("README.md").read() + "\n\n" + open("CHANGELOG.md").read(),
+    long_description_content_type="text/markdown",
     url="https://github.com/Qwerty-Qwerty88/Text-Adventures",  
     author="Qwerty Qwerty",
     author_email="personqwertyperson88@gmail.com",
