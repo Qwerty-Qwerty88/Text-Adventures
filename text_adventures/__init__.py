@@ -1,6 +1,6 @@
 """A Python library for easily making text adventure games.
 
-Please view the `README.md` file [on Replit](https://replit.com/@QwertyQwerty54/TextAdventures#README.md) or [on GitHub](https://github.com/Qwerty-Qwerty88/Text-Adventures) to get started.
+Please view the `README.md` file [on PyPI](https://pypi.org/project/text-adventures/), [on GitHub](https://github.com/Qwerty-Qwerty88/Text-Adventures), or [on Replit](https://replit.com/@QwertyQwerty54/TextAdventures#README.md) to get started.
 """
 
 from typing import Iterable
