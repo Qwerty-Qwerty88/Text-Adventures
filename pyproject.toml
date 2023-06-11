@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "Text-Adventures"
+version = "0.0.3"
+description = ""
+authors = ["Qwerty Qwerty <personqwertyperson88@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+getkey = "^0.6.5"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,15 @@
+[[package]]
+name = "getkey"
+version = "0.6.5"
+description = "Read single characters and key-strokes"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.10"
+content-hash = "fa0f60829432c360abe967a22ebef0366248faf248e0c11bc23e9c046bf43db8"
+
+[metadata.files]
+getkey = []

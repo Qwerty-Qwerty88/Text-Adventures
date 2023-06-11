@@ -1,4 +1,4 @@
-from TextAdventures import GoTo, Interaction, Options, Scene, Text
+from text_adventures import GoTo, Interaction, Options, Scene, Text
 
 finalScene = Scene("Final Scene", [
     Text("That's all for now folks!")
